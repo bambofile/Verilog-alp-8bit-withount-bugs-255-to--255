@@ -3,3 +3,10 @@
 
  change reg D and S and  mgg regs to make math
  USE NUMBERS
+
+
+ alp4.v 
+ is my best version
+ which l made by assign
+ there l add 1version of comand block
+ and some change architecture
